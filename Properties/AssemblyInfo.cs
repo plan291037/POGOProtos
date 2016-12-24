@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 // Les informations générales relatives à un assembly dépendent de 
 // l'ensemble d'attributs suivant. Changez les valeurs de ces attributs pour modifier les informations
 // associées à un assembly.
-[assembly: AssemblyTitle("POGOProtos.Properties")]
+[assembly: AssemblyTitle("POGOProtos")]
 [assembly: AssemblyDescription("A central repository for all proto files of PokémonGO.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("AeonLucid")]
@@ -29,5 +29,5 @@ using System.Runtime.InteropServices;
 //      Numéro de build
 //      Révision
 //
-[assembly: AssemblyVersion("2.2.0.0")]
-[assembly: AssemblyFileVersion("2.2.0.0")]
+[assembly: AssemblyVersion("2.4.0.0")]
+[assembly: AssemblyFileVersion("2.4.0.0")]
